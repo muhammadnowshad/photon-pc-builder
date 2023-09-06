@@ -1,5 +1,5 @@
+import RootLayout from '@/components/Layouts/RootLayout';
 import React from 'react';
-import RootLayout from '../../components/Layouts/RootLayout';
 
 const Home = () => {
   return (
